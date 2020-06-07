@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func helloGo() {
+func main() {
 	fmt.Println("Hello, Golang World!")
 }
