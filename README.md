@@ -13,7 +13,9 @@ Golang learn repo.
 - [[6] Flow Control](./flow-control/flow-control.go) 
   - [Exercise: Loops and Functions Description](https://tour.golang.org/flowcontrol/8)
   - [Exercise: Loops and Functions Solution](https://tour.golang.org/flowcontrol/8)
-
+- [[7] Poiner, Struct, Slices](./struct/struct.go)
+  - [Exercise: Slices Description](https://tour.golang.org/moretypes/18)
+  - [Exercise: Slices Solution](./SliceExercise/SliceExercise.go)
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
 
