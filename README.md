@@ -16,6 +16,14 @@ Golang learn repo.
 - [[7] Poiner, Struct, Slices](./struct/struct.go)
   - [Exercise: Slices Description](https://tour.golang.org/moretypes/18)
   - [Exercise: Slices Solution](./SliceExercise/SliceExercise.go)
+- [[8] Map](./map/map.go)
+  - [Exercise: Word Count Description](https://tour.golang.org/moretypes/23) 
+  - [Exercies: Word Count Solution](./WordCountEx/map-exercise.go)
+- [[9] Function As Value](./functionValues/function-value.go)
+  - [Exercise: Fibonacci closure Description](https://tour.golang.org/moretypes/26) 
+  - [Exercise: Fibonacci closure Solution](./Fibonacci/Fibonacci.go)
+
+
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
 
