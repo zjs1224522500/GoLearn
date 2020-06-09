@@ -5,6 +5,7 @@ Golang learn repo.
 - [A tour of Go (Online)](https://tour.golang.org/welcome/1)
 
 ### Index of A tour of Go
+#### Basic
 - [[1] Hello world](./hello.go)
 - [[2] Package](./package/imports.go)
 - [[3] Function](./function/function.go)
@@ -23,6 +24,9 @@ Golang learn repo.
   - [Exercise: Fibonacci closure Description](https://tour.golang.org/moretypes/26) 
   - [Exercise: Fibonacci closure Solution](./Fibonacci/Fibonacci.go)
 
+#### Methods and Interfaces
+- [[1] Methods](./methods/methods.go)
+- [2 Interfaces]()
 
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
