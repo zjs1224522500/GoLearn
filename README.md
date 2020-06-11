@@ -32,6 +32,11 @@ Golang learn repo.
 - [[5] Errors](./errors/errors.go)
 - [[6] Readers](./readers/readers.go)
 - [[7] Images](./images/images.go)
+- [[8] Goroutines](./goroutines/goroutines.go)
+- []()
+
+#### Concurrency
+
 
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
