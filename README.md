@@ -37,11 +37,11 @@ Golang learn repo.
 #### Concurrency
 - [[1] Goroutines](./goroutines/goroutines.go)
 - [[2] Channels](./channels/channels.go)
-- [Exercise Binary Tree Desc](https://tour.golang.org/concurrency/8)
-- [Exercise Binary Tree Solution](./binaryTrees/binaryTrees.go)
+  - [Exercise Binary Tree Desc](https://tour.golang.org/concurrency/8)
+  - [Exercise Binary Tree Solution](./binaryTrees/binaryTrees.go)
 - [[3] Mutex](./mutex/mutex.go)
-- [Exercise Web Crawler Desc](https://tour.golang.org/concurrency/10)
-- [Exercise Web Crawler Solution](./webcrawler/web-crawler.go)
+  - [Exercise Web Crawler Desc](https://tour.golang.org/concurrency/10)
+  - [Exercise Web Crawler Solution](./webcrawler/web-crawler.go)
 
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
