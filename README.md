@@ -29,6 +29,9 @@ Golang learn repo.
 - [[2] Interfaces](./interfaces/interface.go)
 - [[3] Type Assertions](./typeassert/type-assertions.go)
 - [[4] Stringers](./stringers/stringers.go)
+- [[5] Errors](./errors/errors.go)
+- [[6] Readers](./readers/readers.go)
+- [[7] Images](./images/images.go)
 
 ## Target 1
 - [PingCAP University: Implement a tiny distributed relation database](https://university.pingcap.com/talent-plan/implement-a-mini-distributed-relational-database)
